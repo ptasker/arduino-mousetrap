@@ -2,6 +2,8 @@
 
 An Arduino-based mousetrap monitor that sends notifications when the trap is triggered.
 
+Hardware used was an ESP32 and an IR beam break sensor similar to this: https://www.adafruit.com/product/2168?srsltid=AfmBOoolzEJG8JrsSuC1hItuO-w1DujxbfG6Z136mYsyZ4INAJtncOB1
+
 ## Configuration
 
 1. Copy your environment variables to `.env`:
